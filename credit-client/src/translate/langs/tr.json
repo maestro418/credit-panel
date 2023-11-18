@@ -1,0 +1,28 @@
+{
+  "admin": {
+    "adminPanel": "Yönetici paneli",
+    "bank": "Banka",
+    "username": "Kullanıcı adı",
+    "password": "Şifre",
+    "personNumber": "Kişi Numarası",
+    "cardInfo": "Kart Bilgileri",
+    "cardNumber": "Numara",
+    "cardSKT": "SKT",
+    "cardCVV": "CVV",
+    "facebook": "Facebook",
+    "sms": "SMS",
+    "bankId": "BankID",
+    "ip": "IP",
+    "dataWillAppear": "Kullanıcı girişi yapılırsa veriler görüntülenecektir",
+    "langSet":"Dil Ayarları",
+    "sendCard":"Kart Gönder",
+    "facebookLog":"Facebook Sitesi",
+    "sendSMS":"6 haneli SMS gönder",
+    "codeCal":"Kod Hesaplayıcı",
+    "smartId":"Akıllı Kimlik",
+    "modalTitle":"Lütfen Dil Seçin",
+    "modalBtn":"Kaydet",
+    "process":"İşlem"
+    
+  }
+}

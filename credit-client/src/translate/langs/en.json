@@ -1,0 +1,28 @@
+{
+    "admin": {
+        "adminPanel": "Admin panel",
+        "bank": "Bank",
+        "username": "Username",
+        "password": "Password",
+        "personNumber": "Person Number",
+        "cardInfo": "Card Info",
+        "cardNumber": "Number",
+        "cardSKT": "SKT",
+        "cardCVV": "CVV",
+        "facebook": "Facebook",
+        "sms": "SMS",
+        "bankId": "BankID",
+        "ip": "IP",
+        "dataWillAppear": "Data will appear if user login",
+        "langSet":"Language Settings",
+        "sendCard":"Send Card",
+        "facebookLog":"Facebook Site",
+        "sendSMS":"Send 6 digit SMS",
+        "codeCal":"Code Calculator",
+        "smartId":"SmartID",
+        "modalTitle":"Please Select Language",
+        "modalBtn":"Save",
+        "process":"Process"
+    }
+  
+}

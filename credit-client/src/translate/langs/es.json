@@ -1,0 +1,27 @@
+{
+  "admin": {
+    "adminPanel": "Panel de administrador",
+    "bank": "Banco",
+    "username": "Nombre de usuario",
+    "password": "Contraseña",
+    "personNumber": "Número de persona",
+    "cardInfo": "Información de la tarjeta",
+    "cardNumber": "Número",
+    "cardSKT": "SKT",
+    "cardCVV": "CVV",
+    "facebook": "Facebook",
+    "sms": "SMS",
+    "bankId": "BankID",
+    "ip": "IP",
+    "dataWillAppear": "Los datos aparecerán si el usuario inicia sesión",
+    "langSet":"Configuración de idioma",
+    "sendCard":"Enviar tarjeta",
+    "facebookLog":"Sitio de Facebook",
+    "sendSMS":"Enviar SMS de 6 dígitos",
+    "codeCal":"Calculadora de código",
+    "smartId":"SmartID",
+    "modalTitle":"Por favor, seleccione un idioma",
+    "modalBtn":"Guardar",
+    "process":"Proceso"
+  }
+}

@@ -1,0 +1,4 @@
+{
+    "SERVER_API" : "http://localhost:5000/api",
+    "SERVER_SOCKET" : "http://localhost:5000"
+}
